@@ -93,10 +93,10 @@ source="apache_logs.json" host="kali" sourcetype="_json" method=GET
 
 ## 🖼 Dashboard Screenshots
 ## Web Traffic Dashboard
-![Web Traffic Dashboard](./screenshots/web-traffic-dashboard.png)
+![Web Traffic Dashboard](./web-traffic-dashboard.png)
 
    ## Web Traffic Dashboard 2
-![Web Traffic Dashboard 2](./screenshots/web-traffic-dashboard-2.png)
+![Web Traffic Dashboard 2](./web-traffic-dashboard-2.png)
 
  ---
 

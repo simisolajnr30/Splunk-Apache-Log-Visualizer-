@@ -92,10 +92,8 @@ source="apache_logs.json" host="kali" sourcetype="_json" method=GET
 ---
 
 ## 🖼 Dashboard Screenshots  
-
-<img width="1920" height="1020" alt="Screenshot 2025-11-01 131003" src="https://github.com/user-attachments/assets/335f0c65-f2e7-413e-9c3f-c0ae51628f07" />
-<img width="1920" height="1020" alt="Screenshot 2025-11-01 131010" src="https://github.com/user-attachments/assets/020d78c3-4dee-4c96-b73e-77d111e6c594" />
-<img width="1920" height="1020" alt="Screenshot 2025-11-01 131026" src="https://github.com/user-attachments/assets/424753c3-bd47-43ef-a44a-5c355400fe60" />
+   ![Web Traffic Dashboard](./screenshots/web-traffic-dashboard.png)
+   ![Web Traffic Dashboard 2](./screenshots/web-traffic-dashboard-2.png)
 
 ---
 

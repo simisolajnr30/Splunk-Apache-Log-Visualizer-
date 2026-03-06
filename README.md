@@ -99,11 +99,6 @@ source="apache_logs.json" host="kali" sourcetype="_json" method=GET
 
 ---
 
-## 🙌 Acknowledgment  
-Special thanks to [Rajneesh Gupta](https://github.com/0xrajneesh/) for the dataset and guidance.  
-
----
-
 ## 🏁 Conclusion  
 This project helped me:  
 - Visualize Apache web server activity using Splunk  
